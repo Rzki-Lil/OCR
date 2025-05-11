@@ -1,3 +1,3 @@
 UTP PENGOLAHAN CITRA
-Muhamad Rijki Ajkia
-065122087
+ Muhamad Rijki Ajkia
+ 065122087
