@@ -1,3 +1,2 @@
-UTP PENGOLAHAN CITRA
- Muhamad Rijki Ajkia
- 065122087
+App.py = ROI.␣␣  
+App2py = Yolo model.
